@@ -22,14 +22,9 @@ website: https://github.com/rajatdixit/vitae
 website_full: https://github.com/rajatdixit/vitae
 github: trending
 twitter: twitter
-# tel: +44 0000 000000
-# tel_full: tel:+440000000000
 google_maps: 'https://www.google.com/maps/place/metrovancouver'
-#address: 44 Perth Street
-#postcode: EH3 5BL
 city: Vancouver
 country: Canada
-# google_analytics: UA-69300817-1
 
 # needed for travis-ci build
 exclude: [vendor]
